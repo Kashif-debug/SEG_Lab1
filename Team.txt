@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 Kashif Karim (This is part 2)
 Gurkamalvir
-=======
-Gurkamalvir
 Abaoyowa
->>>>>>> 7990eba96862e97f7a566ef81d69a653a4e2fcbb
+
